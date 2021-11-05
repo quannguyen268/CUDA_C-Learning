@@ -4,7 +4,6 @@ The Task List:
 2. Mesure execution time & Bandwidth (Run on CPUs and GPUs)
 3. Write back to *.txt format files (kernel_matrix_size, execution_time, device_name)
 4. Plot Benchmarks (using python to plot) 
-Author: Vu Duc Thai
 \*******************/
 #include <iostream>
 #include <cstdlib>
