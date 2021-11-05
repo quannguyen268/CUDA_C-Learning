@@ -14,7 +14,7 @@ using namespace cv;
 
 int main()
 {
-   std::string PATH("/home/thaivu/Projects/CUDA-NVIDIA_Learning/Photo/test1.jpg");
+   std::string PATH("/home/quan/Projects/CUDA-NVIDIA_Learning/Photo/test1.jpg");
    // std::cout << "hello world" << std::endl;
    // std::cout << "PATH: " << PATH << std::endl;
    Mat img = imread(PATH, IMREAD_GRAYSCALE);
