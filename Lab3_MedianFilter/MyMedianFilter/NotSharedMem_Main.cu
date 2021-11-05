@@ -2,7 +2,7 @@
 The Task List:
 1. 
 
-Author: Vu Duc Thai
+
 \*******************/
 #include "ReadingImage.hpp"
 #include "MedianFilter.hpp"
